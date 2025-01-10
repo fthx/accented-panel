@@ -1,0 +1,4 @@
+.panel-accent {
+  background-color: st-darken(-st-accent-color, 15%);
+  color: -st-accent-fg-color;
+}
