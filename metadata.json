@@ -1,7 +1,10 @@
 {
   "description": "Panel's background color is GNOME's accent color.\n\n Light/dark styling if your GNOME Shell theme supports it (e.g. Yaru).",
   "name": "Accented Panel",
-  "shell-version": ["46", "47"],
+  "shell-version": [
+    "48",
+    "49"
+  ],
   "url": "https://github.com/fthx/accented-panel",
   "uuid": "accented-panel@fthx",
   "version": 999
